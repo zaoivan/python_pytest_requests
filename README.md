@@ -1,2 +1,2 @@
 # python_autotests
-Автотесты для API. Python, Requests, Pytest
+Пример автотестов на pytest + requests
