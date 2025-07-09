@@ -63,4 +63,4 @@ pytest tests/test_pokemon.py
 
 ## Автор
 
-Иван Заостровских ([@franklstone](https://t.me/franklstone))
+Иван Заостровских ([telegram](https://t.me/franklstone))
